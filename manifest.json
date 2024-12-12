@@ -1,0 +1,14 @@
+{
+    "name" : "Dad JOkes",
+    "version" : "0.0.1",
+    "manifest_version": 3,
+    "action" : {
+        "default_popup": "popup.html",
+        "default_icon" : "penguin.png"
+    },
+    "permissions":["activeTab"],
+    "icons":{
+        "128":"penguin.png"
+    }
+
+}
